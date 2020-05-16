@@ -62,7 +62,7 @@
   border-radius: 10px;
 }
 .botao:hover{
-  transition: 0.7s all;
+  transition: 0.9s all;
   background:rgba(17, 95, 130, 0.94);
   box-shadow: 2px 2px 2px black;
 }
