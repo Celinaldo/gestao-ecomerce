@@ -66,20 +66,17 @@
   background:rgba(17, 95, 130, 0.94);
   box-shadow: 2px 2px 2px black;
 }
-.somos{
-  display: inline-block;
-}
-.imagem{
-  display: inline-block;
+.somos .container{
+  display: inline-flex;
 }
  
 .texto{
   display:inline-block;
-  padding: 25px;
+  padding-bottom: 25px;
   text-align: initial;
     color: #0098FF;
     font-size: 1.875rem;
     font-weight: 300;
-    text-align:right;
-    margin-top: 100px;
+    text-align:left; 
 }
+
