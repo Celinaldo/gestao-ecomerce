@@ -8,12 +8,6 @@
 	max-width: 100%;
 }
 
-.container {
-	width: 960px;
-	margin: 0 auto;
-	padding: 0px;
-	position: relative;
-}
 
 .container:after, .container:before {
 	content: " ";
@@ -33,7 +27,7 @@
 .grid-1 	{width: 40px;}
 .grid-2 	{width: 100px;}
 .grid-3 	{width: 160px;}
-.grid-4 	{width: 220px;}
+.grid-4 	{width: 340px;}
 .grid-5 	{width: 280px;}
 .grid-6 	{width: 340px;}
 .grid-7 	{width: 400px;}
